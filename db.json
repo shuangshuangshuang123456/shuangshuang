@@ -1,10 +1,10 @@
 {
   "data":{
       "id":5,
-      "balance": 26,
-      "address": "湖南机电职业技术学院",
-      "name": "汤邵科",
-      "charge":20 ,
-      "time": "2024-04-09 09:02:02" 
+      "bookName": 26,
+      "publish": "电子工业出版社",
+      "price": 3.5,
+      "author":"唐家三少" ,
+      "time": "2024-05-10" 
    } 
 }
