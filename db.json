@@ -1,7 +1,7 @@
 {
   "data":{
-      "name": "张老师",
-      "sex": "男",
+         id:5,
+      "balance": "100元",
       "address": "长沙"
    } 
 }
