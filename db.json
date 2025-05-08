@@ -1,7 +1,1 @@
-{
-  "data":{
-         id:5,
-      "balance": "100元",
-      "address": "长沙"
-   } 
-}
+[{"tid":1,"tname":"国内"},{"tid":2,"tname":"国际"},{"tid":3,"tname":"军事"},{"tid":4,"tname":"体育"}]
